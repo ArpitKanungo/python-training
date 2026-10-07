@@ -1,0 +1,7 @@
+fobj = open("emp.csv", "r")
+L = fobj.readline()
+fobj.close()
+print(type(L), len(L))
+print("")
+print("Display the contents of the file")
+print(L)
