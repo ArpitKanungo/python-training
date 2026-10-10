@@ -1,9 +1,9 @@
 import re
+fname = "emp.csv"
 
-fobj = open('r1.log','r')
+fobj = open(fname,'r')
 for var in fobj:
-    var = var.strip()
-    if(re.search("^$",var)):
-        continue # Ignore the empty lines
-    else:
-        print(var) # Display the non-empty lines
+    if (re.search('sales', var, re.I)):
+        s = re.sub('pune', 'HYDERABAD', var)
+        if 'HYDERABAD' in s:
+            print(s.strip())
