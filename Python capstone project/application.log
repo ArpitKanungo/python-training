@@ -1,0 +1,22 @@
+2026-10-11 11:53:14,900 - LogAnalyzer.Main - INFO - Starting Operational Log Monitoring Tool for data/sample.log
+2026-10-11 11:53:14,901 - LogAnalyzer.Main - ERROR - An error occurred: 'Total warnings'
+2026-10-11 11:53:30,500 - LogAnalyzer.Main - INFO - Starting Operational Log Monitoring Tool for data/sample.log
+2026-10-11 11:53:30,501 - LogAnalyzer.Reporter - INFO - Report successfully exported to reports/summary_report.txt
+2026-10-11 11:53:30,502 - LogAnalyzer.Reporter - INFO - CSV breakdown successfully exported to reports/error_distribution.csv
+2026-10-11 11:53:30,502 - LogAnalyzer.Main - INFO - Reports generated successfully.
+2026-10-11 11:55:24,371 - LogAnalyzer.Main - INFO - Starting Operational Log Monitoring Tool for data/sample.log
+2026-10-11 11:55:24,372 - LogAnalyzer.Reporter - INFO - Report successfully exported to reports/summary_report.txt
+2026-10-11 11:55:24,373 - LogAnalyzer.Reporter - INFO - CSV breakdown successfully exported to reports/error_distribution.csv
+2026-10-11 11:55:24,373 - LogAnalyzer.Main - INFO - Reports generated successfully.
+2026-10-11 11:55:47,569 - LogAnalyzer.Main - INFO - Starting Operational Log Monitoring Tool for data/sample.log
+2026-10-11 11:55:47,569 - LogAnalyzer.Reporter - INFO - Report successfully exported to reports/summary_report.txt
+2026-10-11 11:55:47,570 - LogAnalyzer.Reporter - INFO - CSV breakdown successfully exported to reports/error_distribution.csv
+2026-10-11 11:55:47,570 - LogAnalyzer.Main - INFO - Reports generated successfully.
+2026-10-11 15:49:26,478 - LogAnalyzer.Main - INFO - Starting Operational Log Monitoring Tool for data/sample.log
+2026-10-11 15:49:26,484 - LogAnalyzer.Reporter - INFO - Report successfully exported to reports/summary_report.txt
+2026-10-11 15:49:26,487 - LogAnalyzer.Reporter - INFO - CSV breakdown successfully exported to reports/error_distribution.csv
+2026-10-11 15:49:26,487 - LogAnalyzer.Main - INFO - Reports generated successfully.
+2026-10-11 15:49:51,438 - LogAnalyzer.Main - INFO - Starting Operational Log Monitoring Tool for data/sample.log
+2026-10-11 15:49:51,441 - LogAnalyzer.Reporter - INFO - Report successfully exported to reports/summary_report.txt
+2026-10-11 15:49:51,443 - LogAnalyzer.Reporter - INFO - CSV breakdown successfully exported to reports/error_distribution.csv
+2026-10-11 15:49:51,443 - LogAnalyzer.Main - INFO - Reports generated successfully.
