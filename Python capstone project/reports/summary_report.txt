@@ -1,0 +1,22 @@
+============================================================
+               OPERATIONAL LOG MONITORING REPORT
+============================================================
+--- OVERALL METRICS AND HEALTH STATUS ---
+ Total lines Read: 6
+ Successfully parsed: 5 (83.33)
+ Malformed/Skipped lines: 1
+ Total Warnings: 1
+ Total Errors: 3
+------------------------------------------------------------
+--- LOG LEVEL DISTRIBUTION ---
+ ERROR: 3
+ INFO: 1
+ WARNING: 1
+============================================================
+--- TOP RECURRING WARNINGS ---
+ 1. cache: Cache miss for key user_101: 1
+============================================================
+--- TOP RECURRING ERRORS ---
+ 1. db_pool: Connection timeout reached: 2
+ 2. payment: Gateway rejected card ending in 4412: 1
+============================================================
